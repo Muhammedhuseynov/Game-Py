@@ -1,4 +1,4 @@
-# BASIC GAME --> 
+# BASIc GAME --> 
                 # Angel Kill Monster 
 import random
 # MAKE WHILE LOOP
